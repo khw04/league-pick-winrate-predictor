@@ -1,0 +1,166 @@
+﻿gameid,blue_team,red_team,blue_top_champ,blue_jungle_champ,blue_mid_champ,blue_adc_champ,blue_support_champ,red_top_champ,red_jungle_champ,red_mid_champ,red_adc_champ,red_support_champ,blue_win
+10665-10665_game_1,Bilibili Gaming,Top Esports,K'Sante,Brand,LeBlanc,Varus,Ashe,Udyr,Xin Zhao,Azir,Kalista,Nautilus,1
+10665-10665_game_2,Top Esports,Bilibili Gaming,Udyr,Jarvan IV,Azir,Kalista,Renata Glasc,Aatrox,Vi,Orianna,Xayah,Rakan,1
+10665-10665_game_3,Bilibili Gaming,Top Esports,Kennen,Wukong,LeBlanc,Varus,Renata Glasc,Sion,Lee Sin,Azir,Kalista,Soraka,1
+10666-10666_game_1,Royal Never Give Up,EDward Gaming,Udyr,Nocturne,Orianna,Kalista,Rell,Jax,Maokai,Azir,Varus,Bard,0
+10666-10666_game_2,EDward Gaming,Royal Never Give Up,Jax,Maokai,Azir,Jhin,Neeko,K'Sante,Vi,Akali,Varus,Nautilus,0
+10666-10666_game_3,Royal Never Give Up,EDward Gaming,Kennen,Vi,Taliyah,Kalista,Sett,Aatrox,Poppy,Azir,Varus,Nautilus,1
+10667-10667_game_1,Oh My God,Team WE,Rumble,Jax,LeBlanc,Varus,Rakan,Udyr,Xin Zhao,Azir,Aphelios,Renata Glasc,1
+10667-10667_game_2,Oh My God,Team WE,Jax,Maokai,LeBlanc,Ziggs,Rakan,Udyr,Vi,Azir,Varus,Renata Glasc,1
+10668-10668_game_1,Anyone's Legend,FunPlus Phoenix,K'Sante,Maokai,Azir,Lucian,Milio,Jax,Xin Zhao,Corki,Swain,Pyke,1
+10668-10668_game_2,FunPlus Phoenix,Anyone's Legend,Jax,Nocturne,Orianna,Kai'Sa,Rell,K'Sante,Sejuani,Azir,Varus,Renata Glasc,0
+10669-10669_game_1,Ninjas in Pyjamas,LGD Gaming,Aatrox,Rell,Azir,Xayah,Rakan,K'Sante,Sejuani,Yone,Senna,Tahm Kench,1
+10669-10669_game_2,LGD Gaming,Ninjas in Pyjamas,Udyr,Kindred,Azir,Senna,Tahm Kench,K'Sante,Maokai,Yone,Lucian,Milio,0
+10670-10670_game_1,Ultra Prime,Invictus Gaming,K'Sante,Xin Zhao,Azir,Kalista,Nautilus,Jax,Rell,Taliyah,Draven,Renata Glasc,0
+10670-10670_game_2,Invictus Gaming,Ultra Prime,K'Sante,Lee Sin,Azir,Kalista,Nautilus,Gnar,Maokai,LeBlanc,Lucian,Milio,1
+10671-10671_game_1,Weibo Gaming,Rare Atom,Udyr,Xin Zhao,Taliyah,Aphelios,Milio,K'Sante,Poppy,Azir,Lucian,Nami,1
+10671-10671_game_2,Rare Atom,Weibo Gaming,Poppy,Rell,Azir,Lucian,Nami,K'Sante,Xin Zhao,Taliyah,Kalista,Renata Glasc,0
+10672-10672_game_1,LNG Esports,ThunderTalk Gaming,Jax,Sejuani,Orianna,Aphelios,Milio,K'Sante,Maokai,Azir,Lucian,Nami,0
+10672-10672_game_2,ThunderTalk Gaming,LNG Esports,K'Sante,Maokai,Corki,Aphelios,Milio,Gnar,Rell,Azir,Lucian,Nami,0
+10672-10672_game_3,LNG Esports,ThunderTalk Gaming,Jax,Lee Sin,Neeko,Varus,Renata Glasc,Udyr,Brand,Tristana,Lucian,Nami,0
+10673-10673_game_1,Anyone's Legend,Team WE,Udyr,Trundle,Orianna,Varus,Renata Glasc,K'Sante,Rell,Tristana,Miss Fortune,Bard,0
+10673-10673_game_2,Team WE,Anyone's Legend,K'Sante,Dr. Mundo,Azir,Varus,Nautilus,Jax,Maokai,Tristana,Xayah,Rakan,1
+10674-10674_game_1,Oh My God,FunPlus Phoenix,K'Sante,Xin Zhao,Corki,Lucian,Nami,Gnar,Maokai,Azir,Aphelios,Milio,0
+10674-10674_game_2,FunPlus Phoenix,Oh My God,K'Sante,Maokai,Azir,Zeri,Lulu,Gwen,Xin Zhao,Orianna,Xayah,Rakan,1
+10675-10675_game_1,Bilibili Gaming,Royal Never Give Up,Udyr,Kindred,Neeko,Lucian,Milio,Rumble,Vi,Azir,Varus,Rell,1
+10675-10675_game_2,Royal Never Give Up,Bilibili Gaming,Rumble,Brand,Tristana,Aphelios,Milio,K'Sante,Lee Sin,Akali,Senna,Tahm Kench,0
+10676-10676_game_1,Invictus Gaming,Ninjas in Pyjamas,Jax,Nocturne,Neeko,Varus,Renata Glasc,K'Sante,Maokai,Corki,Senna,Tahm Kench,0
+10676-10676_game_2,Ninjas in Pyjamas,Invictus Gaming,K'Sante,Vi,Azir,Xayah,Rakan,Jax,Rell,Orianna,Varus,Lissandra,1
+10677-10677_game_1,Ultra Prime,LGD Gaming,K'Sante,Maokai,Akali,Lucian,Milio,Poppy,Brand,Corki,Senna,Tahm Kench,1
+10677-10677_game_2,Ultra Prime,LGD Gaming,Aatrox,Trundle,Corki,Lucian,Nami,K'Sante,Maokai,Akali,Aphelios,Milio,0
+10677-10677_game_3,LGD Gaming,Ultra Prime,Aatrox,Rell,Neeko,Lucian,Nami,K'Sante,Maokai,Corki,Aphelios,Milio,1
+10678-10678_game_1,Top Esports,EDward Gaming,Udyr,Xin Zhao,Akali,Senna,Tahm Kench,K'Sante,Lee Sin,Corki,Aphelios,Rell,1
+10678-10678_game_2,EDward Gaming,Top Esports,Udyr,Xin Zhao,Orianna,Aphelios,Milio,Rumble,Maokai,Tristana,Lucian,Nami,0
+10679-10679_game_1,ThunderTalk Gaming,Weibo Gaming,Udyr,Wukong,Orianna,Lucian,Nami,K'Sante,Nocturne,Neeko,Aphelios,Milio,0
+10679-10679_game_2,Weibo Gaming,ThunderTalk Gaming,Aatrox,Jarvan IV,Azir,Lucian,Nami,Rumble,Nocturne,Orianna,Aphelios,Milio,1
+10680-10680_game_1,Rare Atom,JD Gaming,Udyr,Xin Zhao,Taliyah,Aphelios,Milio,Aatrox,Rell,Azir,Lucian,Nami,0
+10680-10680_game_2,JD Gaming,Rare Atom,Udyr,Jarvan IV,Azir,Lucian,Nami,K'Sante,Maokai,Akali,Aphelios,Milio,1
+10681-10681_game_1,Oh My God,LNG Esports,K'Sante,Maokai,Azir,Kalista,Nautilus,Aatrox,Vi,Corki,Xayah,Rakan,0
+10681-10681_game_2,LNG Esports,Oh My God,Rumble,Poppy,Azir,Xayah,Rakan,K'Sante,Nocturne,Akali,Ezreal,Karma,1
+10682-10682_game_1,FunPlus Phoenix,Team WE,K'Sante,Sejuani,Azir,Xayah,Rakan,Darius,Maokai,Corki,Varus,Nautilus,0
+10682-10682_game_2,Team WE,FunPlus Phoenix,Rumble,Rell,Jayce,Jhin,Ashe,K'Sante,Lee Sin,Azir,Varus,Pyke,0
+10682-10682_game_3,Team WE,FunPlus Phoenix,Darius,Vi,Azir,Varus,Nautilus,K'Sante,Diana,Yone,Ezreal,Bard,1
+10683-10683_game_1,Bilibili Gaming,Anyone's Legend,Udyr,Lee Sin,Syndra,Lucian,Milio,Rumble,Vi,Tristana,Zeri,Lulu,1
+10683-10683_game_2,Bilibili Gaming,Anyone's Legend,Udyr,Jarvan IV,Neeko,Lucian,Milio,Rumble,Xin Zhao,Orianna,Zeri,Lulu,1
+10684-10684_game_1,Royal Never Give Up,Ultra Prime,Poppy,Vi,Corki,Varus,Ashe,Jax,Graves,Azir,Rammus,Yuumi,1
+10684-10684_game_2,Ultra Prime,Royal Never Give Up,Aatrox,Brand,Akali,Kalista,Rell,Jax,Sejuani,LeBlanc,Senna,Tahm Kench,0
+10685-10685_game_1,LGD Gaming,EDward Gaming,K'Sante,Maokai,LeBlanc,Kalista,Renata Glasc,Jax,Sejuani,Azir,Varus,Rakan,1
+10685-10685_game_2,LGD Gaming,EDward Gaming,Aatrox,Rell,Azir,Varus,Renata Glasc,K'Sante,Trundle,Akali,Kalista,Neeko,1
+10686-10686_game_1,Rare Atom,Invictus Gaming,Udyr,Vi,Corki,Senna,Tahm Kench,K'Sante,Maokai,Azir,Tristana,Rakan,0
+10686-10686_game_2,Invictus Gaming,Rare Atom,K'Sante,Sejuani,Azir,Lucian,Milio,Poppy,Rell,Corki,Kalista,Renata Glasc,1
+10687-10687_game_1,Ninjas in Pyjamas,JD Gaming,Lillia,Vi,Azir,Caitlyn,Milio,Udyr,Rell,Taliyah,Lucian,Nami,0
+10687-10687_game_2,JD Gaming,Ninjas in Pyjamas,K'Sante,Rell,Akali,Lucian,Nami,Aatrox,Poppy,Orianna,Caitlyn,Milio,1
+10688-10688_game_1,ThunderTalk Gaming,Oh My God,K'Sante,Poppy,Azir,Lucian,Nami,Udyr,Lee Sin,Neeko,Aphelios,Milio,0
+10688-10688_game_2,Oh My God,ThunderTalk Gaming,Udyr,Poppy,Neeko,Tristana,Renata Glasc,K'Sante,Vi,Azir,Xayah,Rakan,1
+10689-10689_game_1,LNG Esports,Weibo Gaming,Udyr,Poppy,Akali,Varus,Ashe,Rumble,Rell,Orianna,Draven,Blitzcrank,0
+10689-10689_game_2,Weibo Gaming,LNG Esports,Udyr,Lee Sin,Orianna,Senna,Tahm Kench,K'Sante,Brand,Tristana,Varus,Milio,0
+10689-10689_game_3,LNG Esports,Weibo Gaming,Gnar,Maokai,Azir,Senna,Tahm Kench,K'Sante,Brand,Corki,Kai'Sa,Rell,1
+10690-10690_game_1,Ninjas in Pyjamas,Team WE,Udyr,Sejuani,Taliyah,Draven,Ashe,Darius,Dr. Mundo,Azir,Miss Fortune,Nautilus,0
+10690-10690_game_2,Ninjas in Pyjamas,Team WE,K'Sante,Sejuani,Sylas,Xayah,Rakan,Gnar,Maokai,Azir,Zeri,Milio,1
+10690-10690_game_3,Ninjas in Pyjamas,Team WE,K'Sante,Sejuani,Taliyah,Xayah,Rakan,Gnar,Dr. Mundo,Corki,Miss Fortune,Maokai,1
+10691-10691_game_1,Ultra Prime,FunPlus Phoenix,K'Sante,Sejuani,Azir,Tristana,Milio,Jax,Maokai,Corki,Nilah,Rakan,1
+10691-10691_game_2,FunPlus Phoenix,Ultra Prime,Gnar,Xin Zhao,Azir,Lucian,Milio,K'Sante,Sejuani,Akali,Zeri,Lulu,1
+10691-10691_game_3,Ultra Prime,FunPlus Phoenix,Aatrox,Maokai,Corki,Lucian,Nami,Fiora,Sejuani,Akali,Aphelios,Milio,1
+10692-10692_game_1,Anyone's Legend,LGD Gaming,Udyr,Sejuani,Azir,Varus,Tahm Kench,K'Sante,Maokai,Tristana,Ezreal,Rakan,0
+10692-10692_game_2,LGD Gaming,Anyone's Legend,Aatrox,Maokai,Tristana,Varus,Milio,K'Sante,Rell,Azir,Senna,Tahm Kench,0
+10692-10692_game_3,Anyone's Legend,LGD Gaming,K'Sante,Rell,Azir,Ezreal,Tahm Kench,Rumble,Maokai,Tristana,Kalista,Nautilus,1
+10693-10693_game_1,Top Esports,Rare Atom,Rumble,Rell,Tristana,Lucian,Nami,Aatrox,Maokai,Azir,Aphelios,Milio,1
+10693-10693_game_2,Rare Atom,Top Esports,Rumble,Lee Sin,LeBlanc,Varus,Rell,Kennen,Poppy,Tristana,Senna,Tahm Kench,0
+10694-10694_game_1,Invictus Gaming,ThunderTalk Gaming,K'Sante,Maokai,Azir,Lucian,Nami,Aatrox,Rell,Taliyah,Aphelios,Milio,1
+10694-10694_game_2,ThunderTalk Gaming,Invictus Gaming,Aatrox,Maokai,Orianna,Ezreal,Ashe,Yone,Jarvan IV,Taliyah,Draven,Varus,1
+10694-10694_game_3,Invictus Gaming,ThunderTalk Gaming,Yone,Rell,Azir,Lucian,Nami,K'Sante,Maokai,Corki,Senna,Tahm Kench,1
+10695-10695_game_1,Bilibili Gaming,EDward Gaming,Darius,Rell,Azir,Senna,Nautilus,Udyr,Vi,Corki,Xayah,Rakan,1
+10695-10695_game_2,Bilibili Gaming,EDward Gaming,Jax,Kindred,Neeko,Senna,Tahm Kench,K'Sante,Nocturne,Orianna,Xayah,Rakan,1
+10696-10696_game_1,Oh My God,Ninjas in Pyjamas,Rumble,Xin Zhao,Akali,Samira,Rakan,Udyr,Maokai,Taliyah,Senna,Tahm Kench,0
+10696-10696_game_2,Ninjas in Pyjamas,Oh My God,Udyr,Sejuani,Taliyah,Senna,Tahm Kench,Rumble,Jarvan IV,Akali,Samira,Rakan,1
+10697-10697_game_1,JD Gaming,LNG Esports,Rumble,Rell,Tristana,Senna,Tahm Kench,Ornn,Xin Zhao,Azir,Xayah,Rakan,0
+10697-10697_game_2,LNG Esports,JD Gaming,K'Sante,Vi,Taliyah,Lucian,Milio,Aatrox,Xin Zhao,Azir,Varus,Nautilus,0
+10697-10697_game_3,JD Gaming,LNG Esports,Aatrox,Xin Zhao,Taliyah,Varus,Ashe,K'Sante,Rell,Azir,Draven,Pyke,1
+10698-10698_game_1,Royal Never Give Up,Weibo Gaming,Jax,Sejuani,Azir,Varus,Renata Glasc,K'Sante,Maokai,LeBlanc,Kalista,Zyra,0
+10698-10698_game_2,Weibo Gaming,Royal Never Give Up,K'Sante,Xin Zhao,Orianna,Lucian,Nami,Gnar,Maokai,Azir,Xayah,Rakan,1
+10699-10699_game_1,Team WE,LGD Gaming,K'Sante,Xin Zhao,Hwei,Varus,Rakan,Aatrox,Rell,Azir,Ezreal,Bard,1
+10699-10699_game_2,LGD Gaming,Team WE,Aatrox,Lillia,Azir,Kalista,Renata Glasc,Yone,Maokai,Corki,Varus,Rakan,1
+10699-10699_game_3,Team WE,LGD Gaming,Aatrox,Poppy,Azir,Varus,Nautilus,Yone,Rell,Akali,Kalista,Renata Glasc,1
+10700-10700_game_1,Ultra Prime,Anyone's Legend,Aatrox,Sejuani,Akali,Kalista,Renata Glasc,Udyr,Maokai,Tristana,Senna,Tahm Kench,1
+10700-10700_game_2,Anyone's Legend,Ultra Prime,K'Sante,Poppy,Corki,Senna,Tahm Kench,Gnar,Sejuani,Hwei,Xayah,Rakan,1
+10700-10700_game_3,Ultra Prime,Anyone's Legend,K'Sante,Lee Sin,Karma,Xayah,Rakan,Gnar,Jarvan IV,Azir,Senna,Tahm Kench,0
+10701-10701_game_1,EDward Gaming,FunPlus Phoenix,Aatrox,Rell,Azir,Xayah,Rakan,K'Sante,Maokai,Tristana,Varus,Rumble,0
+10701-10701_game_2,FunPlus Phoenix,EDward Gaming,K'Sante,Lee Sin,Azir,Kai'Sa,Rell,Jax,Brand,Tristana,Varus,Nautilus,0
+10701-10701_game_3,EDward Gaming,FunPlus Phoenix,K'Sante,Rell,Akali,Ezreal,Neeko,Fiora,Sejuani,Azir,Caitlyn,Karma,0
+10702-10702_game_1,LNG Esports,Bilibili Gaming,Aatrox,Maokai,Corki,Caitlyn,Milio,K'Sante,Lee Sin,Karma,Lucian,Nami,0
+10702-10702_game_2,Bilibili Gaming,LNG Esports,K'Sante,Jax,Karma,Xayah,Rakan,Rumble,Xin Zhao,Orianna,Varus,Nautilus,1
+10703-10703_game_1,Invictus Gaming,Royal Never Give Up,K'Sante,Rell,Azir,Kai'Sa,Ashe,Udyr,Jarvan IV,Akali,Varus,Leona,0
+10703-10703_game_2,Royal Never Give Up,Invictus Gaming,Udyr,Xin Zhao,Orianna,Ezreal,Ashe,Jax,Vi,Neeko,Senna,Tahm Kench,0
+10703-10703_game_3,Invictus Gaming,Royal Never Give Up,K'Sante,Rell,Azir,Kalista,Renata Glasc,Aatrox,Vi,Neeko,Varus,Blitzcrank,1
+10704-10704_game_1,Weibo Gaming,Top Esports,K'Sante,Lee Sin,LeBlanc,Draven,Nautilus,Gnar,Poppy,Akali,Ezreal,Ashe,0
+10704-10704_game_2,Top Esports,Weibo Gaming,Rumble,Rell,Tristana,Sivir,Ashe,Udyr,Viego,Neeko,Varus,Maokai,1
+LOLTMNT02_21206,DRX,Nongshim RedForce,Jax,Xin Zhao,Akali,Lucian,Nami,Udyr,Vi,Taliyah,Aphelios,Milio,0
+LOLTMNT02_21273,T1,Gen.G,Udyr,Lee Sin,Azir,Nilah,Senna,K'Sante,Maokai,Tristana,Varus,Rakan,0
+LOLTMNT02_21295,T1,Gen.G,Kennen,Bel'Veth,Azir,Jhin,Bard,Udyr,Maokai,Yone,Varus,Rakan,0
+LOLTMNT02_21688,OKSavingsBank BRION,Dplus KIA,Jax,Lee Sin,Azir,Kalista,Renata Glasc,Gragas,Vi,Neeko,Xayah,Rakan,0
+LOLTMNT02_21701,OKSavingsBank BRION,Dplus KIA,Jax,Sejuani,Azir,Ezreal,Bard,Poppy,Vi,Sylas,Xayah,Rakan,0
+LOLTMNT02_22165,DRX,Nongshim RedForce,Udyr,Poppy,Orianna,Lucian,Nami,Gnar,Jax,Azir,Aphelios,Milio,0
+LOLTMNT02_22225,Gen.G,T1,K'Sante,Rell,Corki,Aphelios,Lulu,Gwen,Jarvan IV,Neeko,Lucian,Milio,0
+LOLTMNT02_22739,KT Rolster,FearX,Udyr,Lee Sin,Orianna,Ezreal,Hwei,Rumble,Xin Zhao,Azir,Varus,Renata Glasc,1
+LOLTMNT02_22767,FearX,KT Rolster,Udyr,Viego,Syndra,Draven,Renata Glasc,K'Sante,Xin Zhao,Taliyah,Kalista,Hwei,0
+LOLTMNT02_23175,Hanwha Life Esports,DRX,K'Sante,Rell,Yone,Lucian,Nami,Rumble,Maokai,Tristana,Aphelios,Lulu,1
+LOLTMNT02_23223,Hanwha Life Esports,DRX,Aatrox,Zac,Azir,Kalista,Renata Glasc,Gwen,Maokai,Tristana,Varus,Senna,1
+LOLTMNT02_24236,T1,Kwangdong Freecs,Yone,Rell,Orianna,Lucian,Milio,Aatrox,Sejuani,Hwei,Varus,Lulu,1
+LOLTMNT02_24257,T1,Kwangdong Freecs,Ornn,Jarvan IV,Corki,Lucian,Nami,Rumble,Vi,LeBlanc,Varus,Milio,1
+LOLTMNT02_25093,Nongshim RedForce,Gen.G,Udyr,Trundle,Azir,Lucian,Nami,Darius,Sejuani,Taliyah,Aphelios,Milio,0
+LOLTMNT02_25120,Gen.G,Nongshim RedForce,Olaf,Rell,Taliyah,Lucian,Milio,Udyr,Maokai,Tristana,Aphelios,Lulu,1
+LOLTMNT02_25456,Hanwha Life Esports,Kwangdong Freecs,K'Sante,Maokai,Azir,Kai'Sa,Rakan,Aatrox,Viego,Corki,Ezreal,Karma,1
+LOLTMNT02_25488,Dplus KIA,KT Rolster,Aatrox,Maokai,Syndra,Xayah,Rakan,K'Sante,Ivern,Tristana,Kalista,Renata Glasc,1
+LOLTMNT02_26035,OKSavingsBank BRION,FearX,Gwen,Xin Zhao,Azir,Zeri,Lulu,K'Sante,Brand,Yone,Xayah,Rakan,0
+LOLTMNT02_26046,FearX,OKSavingsBank BRION,Udyr,Wukong,Azir,Varus,Nautilus,Renekton,Lee Sin,Orianna,Ezreal,Bard,1
+LOLTMNT02_26436,Hanwha Life Esports,Kwangdong Freecs,Aatrox,Maokai,Azir,Zeri,Rakan,Jax,Rell,Corki,Ashe,Milio,1
+LOLTMNT02_26523,KT Rolster,Dplus KIA,Udyr,Xin Zhao,Azir,Aphelios,Milio,Rumble,Vi,Akali,Lucian,Nami,1
+LOLTMNT02_26537,Dplus KIA,KT Rolster,K'Sante,Sejuani,Orianna,Zeri,Yuumi,Gnar,Vi,Syndra,Lucian,Milio,0
+LOLTMNT02_29043,FearX,Hanwha Life Esports,Gnar,Viego,Azir,Senna,Nautilus,Udyr,Poppy,Corki,Lucian,Nami,0
+LOLTMNT02_29074,Hanwha Life Esports,FearX,Rumble,Maokai,Tristana,Lucian,Milio,Udyr,Lee Sin,Azir,Kalista,Renata Glasc,1
+LOLTMNT02_29105,KT Rolster,Kwangdong Freecs,Udyr,Vi,Orianna,Senna,Ornn,Rumble,Viego,Azir,Aphelios,Tahm Kench,1
+LOLTMNT02_29136,KT Rolster,Kwangdong Freecs,Udyr,Nocturne,Orianna,Caitlyn,Hwei,Rumble,Vi,Azir,Jhin,Senna,0
+LOLTMNT02_29165,KT Rolster,Kwangdong Freecs,Jax,Maokai,Azir,Draven,Pyke,K'Sante,Lee Sin,Corki,Kalista,Renata Glasc,0
+LOLTMNT02_29737,Dplus KIA,Nongshim RedForce,Aatrox,Rell,LeBlanc,Lucian,Nami,Jax,Wukong,Orianna,Aphelios,Milio,1
+LOLTMNT02_29757,Nongshim RedForce,Dplus KIA,Jax,Maokai,Taliyah,Senna,Seraphine,Aatrox,Rell,Kassadin,Lucian,Milio,0
+LOLTMNT02_29804,OKSavingsBank BRION,Gen.G,Aatrox,Graves,Azir,Seraphine,Senna,K'Sante,Brand,Corki,Aphelios,Nautilus,0
+LOLTMNT02_30776,OKSavingsBank BRION,Gen.G,K'Sante,Lee Sin,Azir,Lucian,Nami,Udyr,Maokai,Jayce,Aphelios,Milio,0
+LOLTMNT02_31412,T1,KT Rolster,K'Sante,Poppy,Corki,Jinx,Tahm Kench,Gwen,Vi,Akali,Xayah,Rakan,1
+LOLTMNT02_31433,KT Rolster,T1,K'Sante,Xin Zhao,Azir,Aphelios,Milio,Aatrox,Rell,Orianna,Lucian,Nami,0
+LOLTMNT02_31496,DRX,FearX,K'Sante,Sejuani,LeBlanc,Jinx,Tahm Kench,Udyr,Rell,Azir,Xayah,Rakan,1
+LOLTMNT02_31940,Gen.G,Dplus KIA,Akali,Sejuani,K'Sante,Varus,Ashe,Olaf,Rell,Sylas,Xayah,Rakan,0
+LOLTMNT02_31982,Dplus KIA,Gen.G,Aatrox,Maokai,Azir,Varus,Ashe,Rumble,Sejuani,Tristana,Lucian,Milio,0
+LOLTMNT02_32346,KT Rolster,T1,K'Sante,Viego,Taliyah,Kalista,Alistar,Rumble,Lee Sin,Azir,Draven,Nautilus,1
+LOLTMNT02_32443,FearX,DRX,K'Sante,Sejuani,Akali,Xayah,Rakan,Aatrox,Maokai,Azir,Senna,Tahm Kench,1
+LOLTMNT02_32510,DRX,FearX,Udyr,Sejuani,LeBlanc,Varus,Nautilus,K'Sante,Gragas,Yasuo,Xayah,Rakan,0
+LOLTMNT02_32961,Gen.G,Dplus KIA,Udyr,Maokai,Jayce,Aphelios,Lulu,Aatrox,Rell,Syndra,Lucian,Nami,1
+LOLTMNT02_33033,Kwangdong Freecs,Nongshim RedForce,K'Sante,Nocturne,Orianna,Seraphine,Senna,Jax,Trundle,Azir,Lucian,Milio,1
+LOLTMNT02_33438,DRX,OKSavingsBank BRION,Aatrox,Lee Sin,Azir,Kalista,Renata Glasc,Yone,Maokai,Akali,Xayah,Rakan,0
+LOLTMNT02_33526,Hanwha Life Esports,T1,Aatrox,Poppy,Corki,Xayah,Rakan,Yone,Nocturne,Neeko,Kalista,Ashe,0
+LOLTMNT02_34050,Nongshim RedForce,Kwangdong Freecs,K'Sante,Viego,Azir,Senna,Nautilus,Poppy,Trundle,Corki,Draven,Renata Glasc,0
+LOLTMNT02_34441,OKSavingsBank BRION,DRX,Udyr,Poppy,Orianna,Aphelios,Milio,Gnar,Sejuani,Azir,Varus,Bard,0
+LOLTMNT02_34469,DRX,OKSavingsBank BRION,Aatrox,Sejuani,Akali,Jinx,Tahm Kench,Renekton,Maokai,Azir,Xayah,Rakan,1
+LOLTMNT02_34511,Hanwha Life Esports,T1,K'Sante,Vi,Corki,Aphelios,Milio,Yone,Rell,Orianna,Varus,Pyke,0
+LOLTMNT02_37474,KT Rolster,OKSavingsBank BRION,Rumble,Vi,Corki,Senna,Nautilus,K'Sante,Maokai,Tristana,Xayah,Leona,1
+LOLTMNT02_37499,KT Rolster,OKSavingsBank BRION,Udyr,Vi,Taliyah,Senna,Maokai,Darius,Sejuani,Azir,Aphelios,Tahm Kench,1
+LOLTMNT02_37839,T1,DRX,Aatrox,Vi,Orianna,Lucian,Nami,Jax,Rell,Azir,Aphelios,Milio,1
+LOLTMNT02_37841,DRX,T1,K'Sante,Rell,Corki,Xayah,Rakan,Aatrox,Viego,Neeko,Senna,Ornn,0
+LOLTMNT02_37886,FearX,Nongshim RedForce,Aatrox,Maokai,Azir,Varus,Tahm Kench,Yone,Viego,Orianna,Xayah,Rakan,1
+LOLTMNT02_38424,Kwangdong Freecs,Dplus KIA,Aatrox,Viego,Taliyah,Senna,Nautilus,Udyr,Lee Sin,LeBlanc,Lucian,Milio,1
+LOLTMNT02_38442,Kwangdong Freecs,Dplus KIA,Aatrox,Poppy,Taliyah,Lucian,Nami,Udyr,Sejuani,Tristana,Kog'Maw,Milio,1
+LOLTMNT02_38830,FearX,Nongshim RedForce,Jax,Xin Zhao,Orianna,Lucian,Nami,Aatrox,Rell,Azir,Xayah,Rakan,1
+LOLTMNT02_38839,Nongshim RedForce,FearX,Gnar,Viego,Orianna,Jinx,Tahm Kench,K'Sante,Rumble,Irelia,Rakan,Xayah,1
+LOLTMNT02_41039,Kwangdong Freecs,Gen.G,Aatrox,Jarvan IV,Orianna,Lucian,Nami,K'Sante,Rell,Neeko,Aphelios,Milio,0
+LOLTMNT02_41040,Kwangdong Freecs,Gen.G,Aatrox,Vi,Akali,Lucian,Nami,Yone,Sejuani,Udyr,Aphelios,Milio,0
+LOLTMNT02_41061,Dplus KIA,Hanwha Life Esports,Gnar,Vi,Orianna,Varus,Ashe,Jax,Maokai,Corki,Kalista,Renata Glasc,0
+LOLTMNT02_41171,DRX,KT Rolster,Aatrox,Sejuani,Yone,Senna,Tahm Kench,Rumble,Poppy,Corki,Draven,Nautilus,1
+LOLTMNT02_41177,DRX,KT Rolster,Gnar,Xin Zhao,Azir,Senna,Tahm Kench,Udyr,Viego,Orianna,Varus,Milio,0
+LOLTMNT02_41262,Nongshim RedForce,Hanwha Life Esports,Udyr,Poppy,Orianna,Lucian,Nami,Rumble,Rell,Tristana,Aphelios,Milio,1
+LOLTMNT02_41281,FearX,Gen.G,Rumble,Wukong,Sylas,Senna,Tahm Kench,Jayce,Rell,Corki,Kalista,Nautilus,0
+LOLTMNT02_42068,Dplus KIA,Hanwha Life Esports,Aatrox,Viego,LeBlanc,Senna,Nautilus,Gwen,Vi,Akali,Lucian,Nami,0
+LOLTMNT02_42189,KT Rolster,DRX,Rumble,Lee Sin,Orianna,Jinx,Tahm Kench,Aatrox,Jarvan IV,Azir,Xayah,Rakan,1
+LOLTMNT02_42207,T1,OKSavingsBank BRION,K'Sante,Poppy,Orianna,Caitlyn,Lux,Aatrox,Jarvan IV,Azir,Senna,Ornn,1
+LOLTMNT02_42209,OKSavingsBank BRION,T1,K'Sante,Gragas,Tristana,Varus,Rell,Zac,Vi,Taliyah,Senna,Sion,0
+LOLTMNT02_42257,Nongshim RedForce,Hanwha Life Esports,Jax,Rell,Corki,Lucian,Nami,Udyr,Sejuani,Tristana,Aphelios,Milio,0
+LOLTMNT02_42258,Hanwha Life Esports,Nongshim RedForce,Aatrox,Sejuani,Corki,Kalista,Rell,Yone,Poppy,Azir,Varus,Rakan,1
+LOLTMNT02_42276,Gen.G,FearX,Darius,Rell,Azir,Kalista,Renata Glasc,Udyr,Brand,Yone,Xayah,Rakan,1
