@@ -4,6 +4,9 @@
 프로 LoL 경기 데이터를 이용해서  
 양 팀의 **팀 이름 + 챔피언 10개 픽**을 입력하면 블루 팀 & 레드 팀의 승리 확률을 예측하는 프로젝트다.
 
+## 화면 예시
+![Streamlit ui 화면](docs/실행결과.png)
+
 ## 프로젝트 구조
     Python_project/
     ├─ README.md
@@ -19,14 +22,15 @@
     │  ├─ pick_encoder.joblib
     │  ├─ pick_model_logreg.joblib
     │  └─ README.md
-    └─ src/
-        ├─ data_preprocess.py
-        ├─ make_match_level.py
-        ├─ train_model_pick.py
-        ├─ predict_pick.py
-        ├─ streamlit_app.py
-        └─ README.md
-
+    ├─ src/
+    │   ├─ data_preprocess.py
+    │   ├─ make_match_level.py
+    │   ├─ train_model_pick.py
+    │   ├─ predict_pick.py
+    │   ├─ streamlit_app.py
+    │   └─ README.md
+    └─ docs/
+        └─ 실행결과.png
 
 ## 주요 파일 설명
 
