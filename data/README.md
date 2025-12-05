@@ -16,14 +16,16 @@
 ## raw/
 
 - **2024_LoL_esports_match_data_from_OraclesElixir.xlsx**  
-  - OraclesElixir에서 받은 원본 경기 데이터.  
+  - 해외 웹사이트에서 다운 받은 원본 경기 데이터. 
   - 직접 수정하지 않고, 참고 / 재생성용으로만 사용한다.
+
+  데이터 출처: https://www.kaggle.com/datasets/barthetur/league-of-legends-2024-competitive-game-dataset
 
 ## processed/
 
 - **lck_lpl_matches_champions.csv**  
   - `src/data_preprocess.py`로 생성.  
-  - 원본 엑셀에서 필요한 컬럼만 추린 선수/팀 단위 데이터.
+  - 원본 엑셀에서 리그가 LCK, LPL인 컬럼만 추린 선수/팀 단위 데이터.
 
 - **lck_lpl_match_level.csv**  
   - `src/make_match_level.py`로 생성.  
