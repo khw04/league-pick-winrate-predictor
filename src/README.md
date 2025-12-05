@@ -21,11 +21,6 @@
   - 학습된 OneHotEncoder와 모델을 `models/pick_encoder.joblib`,  
     `models/pick_model_logreg.joblib`으로 저장한다.  
 
-- **train_model.py**  
-  - (선택적 분석용) 팀 스탯이 포함된 별도 데이터셋을 사용해  
-    로지스틱 회귀, 랜덤 포레스트 등 여러 모델의 성능을 비교·분석한다.  
-  - 픽 정보만 쓴 모델과 팀 스탯을 추가한 모델의 성능 차이를 확인하는 데 사용한다. (과제 목표와 부적합하다 생각되어 팀스탯 모델은 제외시킴)
-
 - **predict_pick.py**  
   - 콘솔에서 팀/챔피언 10개를 입력받아  
     `models/`에 저장된 encoder와 모델로 블루 승리 확률을 출력한다.  

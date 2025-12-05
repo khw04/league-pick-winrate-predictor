@@ -6,15 +6,14 @@
 ## 파일 설명
 
 - **pick_encoder.joblib**  
-  - OneHotEncoder 객체.  
-  - 팀 이름과 챔피언 10개 문자열 피처를 학습 시 사용했던 방식과 동일하게  
-    원-핫 인코딩하기 위해 사용한다.
   - `train_model_pick.py` 실행 시 새로 생성/갱신된다.
+  - OneHotEncoder 객체.  
+  - 팀 이름과 챔피언 10개 문자열 피처를 학습 시 사용했던 방식과 동일하게 원-핫 인코딩하기 위해 사용한다.
 
 - **pick_model_logreg.joblib**  
+  - `train_model_pick.py` 실행 시 학습되어 저장된다.
   - 로지스틱 회귀(LogisticRegression) 분류 모델.  
   - 인코딩된 피처를 입력으로 받아 블루 팀의 승리 확률(blue_win)을 예측한다.
-  - `train_model_pick.py` 실행 시 학습되어 저장된다.
 
 ## 사용 위치
 
