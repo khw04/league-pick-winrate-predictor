@@ -3,11 +3,13 @@
 ### (1-1) 역할: 
  
  - raw 데이터 (2024\_LoL\_esports ... .xlsc) 파일중에 Leauge 가 'LCK' , 'LPL' 인 행만 추려서 lck\_lpl\_matches\_champions.csv 파일에 저장함
+--- 
 
 ## **(2) make\_match\_level.py:**
 
 ### (2-1) 역할:
 - 앞서 리그를 lck, lpl로 정제한 파일을 한 행당 한 경기 단위로 쪼개서 lck\_lpl\_matches\_champions.csv 파일에 저장함
+--- 
 
 ## **(3) train\_model\_pick.py:**
 
