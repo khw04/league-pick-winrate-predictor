@@ -32,6 +32,25 @@
     └─ docs/
         └─ 실행결과.png
 
+## 프로젝트 흐름도
+```mermaid
+flowchart TD
+    A[원본 데이터] --> B[data_preprocess.py - LCK/LPL 필터링]
+    B --> C["lck_lpl_matches_champions.csv (선수/팀 단위)"]
+    C --> D["make_match_level.py (경기 단위 집계)"]
+    D --> E["lck_lpl_match_level.csv (팀 이름 + 챔프 10개 + blue_win)"]
+
+    E --> F["train_model_pick.py - OneHotEncoder + LogisticRegression 학습"]
+    F --> G["pick_encoder.joblib - 인코더 저장"]
+    F --> H["pick_model_logreg.joblib - 모델 저장"]
+
+    G --> I["predict_pick.py - 콘솔 승률 예측"]
+    H --> I
+
+    G --> J["streamlit_app.py - 웹 UI 승률 예측"]
+    H --> J
+```
+
 ## 주요 파일 설명
 
 - `data_preprocess.py`  
